@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\calculator\calculator\obj\x86\Debug\calculator.Calculator.resources
+C:\Users\melih\Desktop\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\melih\Desktop\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\melih\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\melih\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\melih\Desktop\calculator\calculator\obj\x86\Debug\calculator.exe
+C:\Users\melih\Desktop\calculator\calculator\obj\x86\Debug\calculator.pdb
