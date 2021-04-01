@@ -82,7 +82,7 @@ namespace calculator
         private void clear_Click(object sender, EventArgs e)
         {
             operate1.Clear();
-            operate2.Text = "= ";
+
         }
 
         private void divide_Click(object sender, EventArgs e)
@@ -160,7 +160,8 @@ namespace calculator
         private void equal_Click(object sender, EventArgs e)
         {
             var eval = Eval(operate1.Text);
-            operate2.Text += eval;
+            operate1.Clear();
+            operate1.Text += eval;
         }
 
         private void Eval()
