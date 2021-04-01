@@ -52,7 +52,9 @@
             // 
             // operate1
             // 
+            this.operate1.BackColor = System.Drawing.Color.White;
             this.operate1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.operate1.ForeColor = System.Drawing.Color.Black;
             this.operate1.Location = new System.Drawing.Point(12, 12);
             this.operate1.Name = "operate1";
             this.operate1.Size = new System.Drawing.Size(386, 62);
